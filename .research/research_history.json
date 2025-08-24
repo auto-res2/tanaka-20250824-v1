@@ -6,5 +6,52 @@
     "latent diffusion architecture",
     "UNet alternatives diffusion",
     "efficient denoiser architectures"
+  ],
+  "research_study_list": [
+    {
+      "title": "Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data"
+    },
+    {
+      "title": "Diffusion Models Beat GANs on Image Synthesis"
+    },
+    {
+      "title": "Diffusion Models Beat GANs on Image Synthesis"
+    },
+    {
+      "title": "Functional Diffusion"
+    },
+    {
+      "title": "U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers"
+    },
+    {
+      "title": "Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers"
+    },
+    {
+      "title": "Latent Diffusion for Language Generation"
+    },
+    {
+      "title": "Solving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models"
+    },
+    {
+      "title": "InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models"
+    },
+    {
+      "title": "U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers"
+    },
+    {
+      "title": "A Unified Framework for U-Net Design and Analysis"
+    },
+    {
+      "title": "ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection"
+    },
+    {
+      "title": "On the Posterior Distribution in Denoising: Application to Uncertainty Quantification"
+    },
+    {
+      "title": "Robust And Interpretable Blind Image Denoising Via Bias-Free Convolutional Neural Networks"
+    },
+    {
+      "title": "CLEARER: Multi-Scale Neural Architecture Search for Image Restoration"
+    }
   ]
 }
